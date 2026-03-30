@@ -22,4 +22,3 @@ Output
 Novelty of the Work
 •	Dual-algorithm in one tool: users can compare Huffman vs LZW on the same file and pick the best result.
 •	Full binary safety: operates at raw byte level — works on any file type, not just ASCII text.
-•	Non-blocking GUI with live stats: real-time compression ratio, space saved, and elapsed time.
